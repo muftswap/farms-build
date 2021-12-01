@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UACI,qBACJ,CAEA,uDAcE,6CACF","file":"main.35e19429.chunk.css","sourcesContent":["html, body {\n    background-color: white;\n}\n\nbody,\nbutton,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nhtml,\nli,\nspan,\ndiv,\np,\ninput {\n  font-family: \"amasis-mt-std-medium\", sans-serif;\n}"]}
